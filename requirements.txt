@@ -1,0 +1,7 @@
+requests
+python-dotenv
+cryptography
+schedule
+scipy
+pytz
+rich
